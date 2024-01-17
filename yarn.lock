@@ -4585,10 +4585,10 @@ camelize@^1.0.0:
   resolved "https://registry.npmjs.org/camelize/-/camelize-1.0.0.tgz"
   integrity sha1-FkpUg+Yw+kMh5a8HAg5TGDGyYJs=
 
-caniuse-lite@^1.0.30001109, caniuse-lite@^1.0.30001283, caniuse-lite@^1.0.30001541, caniuse-lite@^1.0.30001563:
-  version "1.0.30001563"
-  resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001563.tgz"
-  integrity sha512-na2WUmOxnwIZtwnFI2CZ/3er0wdNzU7hN+cPYz/z2ajHThnkWjNBOpEPP4n+4r2WPM847JaMotaJE3bnfzjyKw==
+caniuse-lite@^1.0.30001109, caniuse-lite@^1.0.30001283, caniuse-lite@^1.0.30001541, caniuse-lite@^1.0.30001578:
+  version "1.0.30001578"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001578.tgz#11741580434ce60aae4b4a9abee9f9f8d7bf5be5"
+  integrity sha512-J/jkFgsQ3NEl4w2lCoM9ZPxrD+FoBNJ7uJUpGVjIg/j0OwJosWM36EPDv+Yyi0V4twBk9pPmlFS+PLykgEvUmg==
 
 capital-case@^1.0.4:
   version "1.0.4"
